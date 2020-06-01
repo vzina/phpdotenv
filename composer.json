@@ -1,13 +1,12 @@
 {
-    "name": "vlucas/phpdotenv",
+    "name": "vzina/phpdotenv",
     "description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.",
     "keywords": ["env", "dotenv", "environment"],
-    "license" : "BSD-3-Clause-Attribution",
+    "license" : "MIT",
     "authors" : [
         {
-            "name": "Vance Lucas",
-            "email": "vance@vancelucas.com",
-            "homepage": "http://www.vancelucas.com"
+            "name": "vzina",
+            "email": "891718689@qq.com"
         }
     ],
     "require": {
